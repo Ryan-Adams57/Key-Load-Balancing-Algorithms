@@ -1,5 +1,7 @@
 # Key-Load-Balancing-Algorithms.
 
+![Loading Balancing Algorithms](https://github.com/user-attachments/assets/d8b9559f-fdd1-4e02-ae2d-b3b1ee79d250)
+
 An overview of 8 load balancing algorithms and their uses.
 
 8 Load Balancing Algorithms You Should Know.
@@ -37,5 +39,3 @@ Routes requests to the server using the least bandwidth.
 Best for: Avoiding network congestion.
 
 Image Credit: DesignGurus.
-
-(https://media.licdn.com/dms/image/v2/D4E10AQE9d6xdCw64CA/image-shrink_1280/image-shrink_1280/0/1730964609457?e=1732125600&v=beta&t=YAcZcqMG6ZN2jEiN3S36Fin46-nB-zwsE3fIjCrywpA)
